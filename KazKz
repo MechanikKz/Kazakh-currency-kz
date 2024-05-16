@@ -1,0 +1,7 @@
+эхо "# Kazakh-currency-kz" >> README.md
+git init
+git добавить README.md
+git commit -m "первый commit"
+git branch -M main
+git remote add origin https://github.com/MechanikKz/Kazakh-currency-kz.git
+git push -u origin main
